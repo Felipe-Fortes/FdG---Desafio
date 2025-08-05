@@ -1,0 +1,14 @@
+{
+    "python.defaultInterpreterPath": "C:/Users/casto/AppData/Local/Microsoft/WindowsApps/python3.11.exe",
+    "python.terminal.activateEnvironment": true,
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/*.pyc": true
+    },
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+    "python.analysis.typeCheckingMode": "basic"
+}
