@@ -30,8 +30,8 @@ API desenvolvida em FastAPI para gerenciamento de formulários dinâmicos com pe
 
 ### 1. Clone o repositório
 ```bash
-git clone <url-do-repositorio>
-cd FdG\ -\ Desafio
+git clone https://github.com/Felipe-Fortes/FdG---Desafio
+cd FdG - Desafio
 ```
 
 ### 2. Crie um ambiente virtual (recomendado)
@@ -66,7 +66,7 @@ DB_HOST=localhost
 DB_PORT=5432
 DB_NAME=postgres
 DB_USER=postgres
-DB_PASSWORD=12345
+DB_PASSWORD=sua senha
 
 # Configurações da API
 API_HOST=127.0.0.1
